@@ -1,0 +1,10 @@
+<HTML>
+  <HEAD> 
+    <TITLE> This is the title of the page</TITLE>
+  </HEAD>
+    <BODY>
+      <H1> This is thebody of the webpage </H1>
+      <P> Anything with the body of webpage is a displayed in the main browser of the page </P>
+    </BODY>
+
+</HTML>
